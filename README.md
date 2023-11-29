@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Nishanth J
+### Register Number:23007929
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
